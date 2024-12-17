@@ -37,14 +37,14 @@ This is a simplified multi-currency expense management system that calculates an
 
 1. Clone the repository and navigate to the `backend` directory:
    ```bash
-   git clone https://github.com/yourusername/multi-currency-expense-management.git
+   git clone https://github.com/Rasujon3/multi-currency-expense-management.git
    cd multi-currency-expense-management/backend
 
 2. Install dependencies:
    ```bash
    npm install
 
-3. Create a .env file in the backend directory with your Open Exchange Rates URL & API key:
+3. Create a .env file in the backend directory with your Open & paste those 2 line for Exchange Rates URL & API key:
    ```bash
    OPEN_EXCHANGE_RATES_API_KEY=712fc41274c04ebb8d6d9b4c7543d2d2
    OPEN_EXCHANGE_RATES_API_URL=https://openexchangerates.org/api/latest.json
